@@ -1,0 +1,29 @@
+.immagine-ridimensionata {
+    width: 250px;
+    height: 250px;
+}
+
+.color {
+    
+}
+
+.ffg {
+        margin-bottom: -10px; 
+    }
+    
+    .ffg + .ggh {
+        margin-top: 35px; 
+    }
+    
+    .rrr + .hhi {
+        margin-top: 75px; 
+    }
+    
+    .ddd {
+        margin-top: 0px;
+    }
+    
+    .colore-azzurro {
+        background-color:rgb(136, 213, 210); 
+    }
+    
