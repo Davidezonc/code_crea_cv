@@ -28,7 +28,7 @@
     }
     
     .cam {
-        color:RGB(70,133,221);
+        color: rgb(47, 196, 191);
     }
 
     .eee {
@@ -38,4 +38,8 @@
     .ult {
         margin-top: 275px;
         color:dimgrey ;
+    }
+
+    .cambio-color {
+        background-color:rgb(47, 196, 191) ; 
     }
