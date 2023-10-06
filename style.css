@@ -27,3 +27,15 @@
         background-color:rgb(136, 213, 210); 
     }
     
+    .cam {
+        color:RGB(70,133,221);
+    }
+
+    .eee {
+        margin-top: 75px;
+    }
+
+    .ult {
+        margin-top: 275px;
+        color:dimgrey ;
+    }
