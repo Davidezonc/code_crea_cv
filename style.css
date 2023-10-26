@@ -1,25 +1,27 @@
-.immagine-ridimensionata {
+.image {
     width: 250px;
     height: 250px;
 }
 
-.color {
-    
-}
 
-.ffg {
+
+.contact {
         margin-bottom: 25px; 
     }
     
-    .ffg + .ggh {
+    .contact + .repo {
         margin-top: 35px; 
     }
     
-    .rrr + .hhi {
+    .link + .capacity {
         margin-top: 75px; 
     }
+
+    .capacity + .skills {
+        margin-top: 750px; 
+    }
     
-    .ddd {
+    .knowledge {
         margin-top: 0px;
     }
     
@@ -27,15 +29,15 @@
         background-color:rgb(136, 213, 210); 
     }
     
-    .cam {
+    .name {
         color: rgb(47, 196, 191);
     }
 
-    .eee {
+    .profile {
         margin-top: 75px;
     }
 
-    .ult {
+    .authorization {
         margin-top: 275px;
         color:dimgrey ;
     }
