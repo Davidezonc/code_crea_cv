@@ -25,9 +25,13 @@
         margin-top: 0px;
     }
     
-   .skills  {
-    margin-bottom: 10px;
-   } 
+    .technical-skills {
+        margin-bottom: 40px; /* Puoi regolare il valore a tuo piacimento */
+      }
+      
+      .skills {
+        margin-top: 70px; /* Puoi regolare il valore a tuo piacimento */
+      }
     
     .name {
         color: rgb(47, 196, 191);
