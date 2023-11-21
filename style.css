@@ -1,13 +1,27 @@
 .image {
     width: 250px;
     height: 250px;
+    
 }
 
+.image-icons {
+    width: 20px;
+    height: 20px;
 
+}
+.link {
+    cursor: pointer;
+}
 
 .contact {
-        margin-bottom: 25px; 
+        margin-bottom: 20px; 
     }
+
+    .contact.clickable {
+        cursor: pointer !important;
+    }
+
+   
     
     .contact + .repo {
         margin-top: 35px; 
