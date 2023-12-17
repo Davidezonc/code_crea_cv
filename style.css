@@ -49,6 +49,7 @@
     
     .name {
         color: rgb(47, 196, 191);
+        text-transform: uppercase;
     }
 
     .profile {
